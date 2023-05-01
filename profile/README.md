@@ -6,3 +6,4 @@
 </picture>
 </a>
 
+Moving at *terminal* velocity...
