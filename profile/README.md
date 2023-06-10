@@ -7,3 +7,5 @@
 </a>
 
 Moving at *terminal* velocity...
+
+Because the [terminal is a platform](https://www.textualize.io)!
