@@ -7,6 +7,6 @@
 </a>
 
 
-Move at terminal velocity!
+Move at terminal velocity.
 
-Because the [terminal is a platform](https://www.textualize.io)!
+Because the [terminal is a platform](https://www.textualize.io).
