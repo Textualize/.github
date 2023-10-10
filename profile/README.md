@@ -1,11 +1,12 @@
 
 <a href="https://www.textualize.io">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/554369/235364765-2d37b7de-fde8-4a20-bcd9-09412cddc3c9.png">
-  <img src="https://user-images.githubusercontent.com/554369/235365090-95ac1da3-6a2b-4dde-b755-cb87b3f2041f.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Textualize/.github/assets/554369/037e6aa1-8527-44f3-958d-28841d975d40">
+  <img src="https://github.com/Textualize/.github/assets/554369/1cafaa51-445f-48e4-b328-213105bef5a8">
 </picture>
 </a>
 
-Moving at *terminal* velocity...
+
+Move at terminal velocity!
 
 Because the [terminal is a platform](https://www.textualize.io)!
